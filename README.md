@@ -1,8 +1,8 @@
 # Bonaventure Iwunor Page Project
 
-## Public IDomain
+## Public Domain Web Server
 
-- https://www.bonaventure.org.ng
+- <https://www.bonaventure.org.ng>
 
 ## Steps I Took
 
